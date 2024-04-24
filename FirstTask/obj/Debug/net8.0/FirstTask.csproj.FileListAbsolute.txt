@@ -1,0 +1,14 @@
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Exercise2 –EncapsulationAccessModifiers\FirstTask\obj\Debug\net8.0\FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Exercise2 –EncapsulationAccessModifiers\FirstTask\obj\Debug\net8.0\FirstTask.AssemblyInfoInputs.cache
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Exercise2 –EncapsulationAccessModifiers\FirstTask\obj\Debug\net8.0\FirstTask.AssemblyInfo.cs
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Exercise2 –EncapsulationAccessModifiers\FirstTask\obj\Debug\net8.0\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Exercise2 –EncapsulationAccessModifiers\FirstTask\bin\Debug\net8.0\FirstTask.exe
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Exercise2 –EncapsulationAccessModifiers\FirstTask\bin\Debug\net8.0\FirstTask.deps.json
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Exercise2 –EncapsulationAccessModifiers\FirstTask\bin\Debug\net8.0\FirstTask.runtimeconfig.json
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Exercise2 –EncapsulationAccessModifiers\FirstTask\bin\Debug\net8.0\FirstTask.dll
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Exercise2 –EncapsulationAccessModifiers\FirstTask\bin\Debug\net8.0\FirstTask.pdb
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Exercise2 –EncapsulationAccessModifiers\FirstTask\obj\Debug\net8.0\FirstTask.dll
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Exercise2 –EncapsulationAccessModifiers\FirstTask\obj\Debug\net8.0\refint\FirstTask.dll
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Exercise2 –EncapsulationAccessModifiers\FirstTask\obj\Debug\net8.0\FirstTask.pdb
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Exercise2 –EncapsulationAccessModifiers\FirstTask\obj\Debug\net8.0\FirstTask.genruntimeconfig.cache
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Exercise2 –EncapsulationAccessModifiers\FirstTask\obj\Debug\net8.0\ref\FirstTask.dll
